@@ -16,6 +16,6 @@ Must have Python and Pygame Library
 
 ## Look up the Game
 
-![Alt](img/ss1.png)
+![Alt](img/ss1.PNG)
 
-![Alt](img/ss2.png)
+![Alt](img/ss2.PNG)
